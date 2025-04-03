@@ -1,3 +1,5 @@
+//Team Member: Kel Shang, Rin Nishiwaki
+//Team Name: Box Twisters
 
 /* #include <Servo.h>
 
